@@ -43,11 +43,11 @@ This project aims to detect **plant leaf diseases** using **deep learning (CNN)*
 ---
 
 ## 📷 Example Prediction
+![Screenshot 2025-07-08 235536](https://github.com/user-attachments/assets/2aa95411-2eb2-4c4a-9702-47a90991e095)
 
-![Sample Prediction](""C:\Users\USER\Desktop\PlantDieasedetection\Screenshot 2025-07-08 235536.png"")
 
 > Input: Leaf image  
-> Output: `Tomato___Bacterial_spot`
+> Output: `Pepper_bell_healthy`
 
 ---
 
