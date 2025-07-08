@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-This project aims to detect **plant leaf diseases** using **deep learning (CNN)** with the help of the (https://www.kaggle.com/datasets/emmarex/plantdisease). The model classifies leaves into different categories such as **Tomato_Bacterial_spot**, **Potato_Early_blight**, and **Healthy** based on image input.
+This project aims to detect **plant leaf diseases** using **deep learning (CNN)** with the help of the (https://www.kaggle.com/datasets/emmarex/plantdisease). The model classifies leaves into different categories such as **Tomato_Bacterial_spot**, **Potato_Early_blight** etc based on image input.
 
 ---
 
